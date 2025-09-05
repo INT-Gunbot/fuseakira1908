@@ -184,6 +184,12 @@ export const navBarConfig: NavBarConfig = {
 				},
 				{
 					name: "FUSEAKIRA",
+					url: "https://music.163.com/#/user/home?id=1474135229",
+					external: true,
+					icon: "fa6-solid:music",
+				},
+				{
+					name: "FUSEAKIRA",
 					url: "https://steamcommunity.com/profiles/76561199524311560/",
 					external: true,
 					icon: "fa6-brands:steam",
