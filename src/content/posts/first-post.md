@@ -12,8 +12,8 @@ sourceLink: "https://fuseakira1908.cn/posts/first-post/"
 ---
 # FUSEAKRIA
 
-2222222222.
+NJU23级在读，爱好FPS，足球，特摄，JPOP......
 
-## WEBSITE
+# WEBSITE
 
-4444444
+个人网站设立用于记录学习过程，分享生活等......
